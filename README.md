@@ -1,5 +1,5 @@
 # password-generator
-Simple console password generated using python with custom options:
+Simple console password generator script using python with custom options:
 - Lenght
 - Letters
 - Capital Letters
